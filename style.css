@@ -1,0 +1,47 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
+  background-image: url("https://c.tenor.com/ozScss-k3jwAAAAd/themadfox-blade-runner.gif");
+  background-color: #000000;
+  background-size: 100%;
+  background-position: center-top;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.page-title {
+  background-color: red;
+  color: #ffffff;
+  font-size: 40px;
+  width: 400px;
+  margin: 0 auto;?
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+body > img {
+  margin: 0 10px;
+}
+
+img {
+  max-height: 450px;
+  margin: 15px;
+}
